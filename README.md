@@ -9,19 +9,19 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1.Program to find L and U matrix using LU decomposition. 
- 1 import numpy 
- 2 import lu from scipy.linalg
- 3 get the user input
- 4 apply in the formula
- 5 print the l matrix
- 6 print the u matrix
+1 import numpy  
+2 import lu from scipy.linalg
+3 get the user input
+4 apply in the formula
+5 print the l matrix
+6 print the u matrix
 
 2.Program to solve a matrix using LU decomposition.
- 1 import numpy
- 2 import lu_factor and lu_solve from scipy.linalg
- 3 get the users input
- 4 apply in the formula
- 5 print the decomposed matrix
+1 import numpy
+2 import lu_factor and lu_solve from scipy.linalg
+3 get the users input
+4 apply in the formula
+5 print the decomposed matrix
 
 ## Program:
 (i) To find the L and U matrix
